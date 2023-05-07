@@ -1,10 +1,10 @@
-### Python & Matlab 
+<!-- ### Python & Matlab 
 ### Artificial Intelligence 
 ### Machine Learning  
 ### Deep learning  
 ### Vision 
 ### Time series   
-### NLP   
+### NLP    -->
 <!--
 **nezamtrm/nezamtrm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
